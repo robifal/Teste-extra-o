@@ -1,6 +1,7 @@
 # Teste-extra-o
 Extração de contatos.
 
+O Telegram oferece uma API oficial que permite interagir com grupos e canais. Para acessar os membros de um grupo, você pode usar a biblioteca Telethon, que é uma biblioteca Python para a API do Telegram.
 
 Como Funciona:
 Interface Gráfica:
