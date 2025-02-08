@@ -28,11 +28,17 @@ Para o WhatsApp, você precisa baixar o WebDriver correspondente ao seu navegado
 
 Certifique-se de que todas as bibliotecas (tkinter, telethon, selenium) estão instaladas.
 
-``
+````
 extrator-contatos/
+
 │
+
 ├── main.py                # Código principal do aplicativo
+
 ├── README.md              # Este guia
+
 └── contatos_telegram.txt  # Exemplo de arquivo de saída (Telegram)
+
 └── contatos_whatsapp.txt  # Exemplo de arquivo de saída (WhatsApp)
-``
+
+````
