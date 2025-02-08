@@ -43,3 +43,8 @@ extrator-contatos/
 └── contatos_whatsapp.txt  # Exemplo de arquivo de saída (WhatsApp)
 
 ````
+
+Instalação de bibliotecas.
+````
+pip install telethon selenium webdriver-manager
+````
